@@ -1,0 +1,156 @@
+body{
+    font-family:Arial;
+    background-color:#eeeeee;
+}
+.page {
+    margin:50px 300px;
+    font-family:Arial;
+}
+
+.todayMeetups{
+    position: relative;
+    right: 0px;
+    height: auto;
+    max-width: 800px;
+    border-radius:7px;
+    border: 2px solid #e0dfdf;
+    background-color:white;
+    
+}
+
+h4{
+  
+    font:italic 12px arial;
+    text-align:center;
+    
+}
+
+.right{
+    position: relative;
+    right: 0px;
+    margin:7px;
+    padding-top: 10px;
+    padding-bottom: 7px;
+    padding-left: 5px;
+    height:auto;
+}
+
+.right2{
+    position: relative;
+    right: 0px;
+    margin: 15px;
+    padding:15px 10px 10px 10px;
+    
+    border-bottom:2px dotted #e0dfdf; 
+    height:auto;
+}
+
+
+.followingDay {
+    position: relative;
+    margin-top: 10px;
+    right: 0px;
+    height: auto;
+    max-width: 800px;
+    border-radius: 7px;
+    border: 2px solid #e0dfdf;
+    background-color: white;
+}
+
+.mainPic{
+    float: left;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-left: 7px;
+    padding-bottom: 85px;
+    width: 75px;
+}
+
+p{
+    margin:auto;
+    margin-bottom:1px;
+    color:#8e8e8e;
+}
+
+
+.thumbnails{
+    width:150px;
+}
+hr{
+ border: 1.5px solid #e0dfdf;
+}
+
+.heading{
+    background:#E0393D;
+    background-clip:padding-box;
+    font:bold 28px arial;
+    color:white;
+    padding:20px;
+    margin:auto;
+    border-radius: 7px 7px 0px 0px;
+    
+}
+
+header{
+    background-color:#E0393D;
+    background-clip:padding-box;
+    margin-top:10px;
+    height:25px;
+    padding:10px 650px 0 650px ;
+}
+
+footer{
+    margin-top:10px;
+    height:25px;
+    padding:0px 520px ; 
+}
+.pic2{
+    float:left;
+    padding-right:2px;
+    width:125px;
+
+}
+.pic3{
+    padding:3px;
+    width:127px;
+}
+.pic{
+    width:50px ;
+    position:center;
+    
+
+}
+h2{
+     padding:0px 0px 0px 10px;
+     
+}
+
+.subHeading{
+    color:#E0393D;
+    
+}
+
+label{
+    color:#8e8e8e;
+}
+h3{
+    color:#3f8bcc;
+    font:bold 16px arial;
+    margin-top: 4px;
+    margin-bottom:5px;
+}
+
+h1{
+    text-align:center;
+}
+
+
+.h1Only{
+    background-color:transparent;
+    color:#E0393D;
+}
+
+mark{
+    background-color:transparent;
+    color:#8e8e8e;
+}
